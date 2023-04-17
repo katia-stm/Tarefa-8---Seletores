@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;  
+}
+
+.vermelhaComBorda {
+    background-color: red;
+    border: 1px solid black;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+
+.vermelha {
+    background-color: red;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+.azul {
+    background-color: blue; 
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+.verde {
+    background-color: green; 
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+.amarela {
+    background-color: yellow;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
